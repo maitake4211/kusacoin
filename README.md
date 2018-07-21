@@ -1,2 +1,2 @@
 # maiteke
-test
+HTMLとCSSとJSの練習用に作ったやつ
